@@ -1,0 +1,13 @@
+,M = 100,M = 100,M = 1000,M = 1000,M = M_est,M = M_est
+,100,150,100,150,100,150
+instance,,,,,,
+1,no feasible solution,no feasible solution,"[-75852, 100]","[-128496, 150]","[-75852, 100]","[-128496, 150]"
+2,no feasible solution,no feasible solution,"[-75472, 100]","[-126941, 150]","[-75472, 100]","[-127225, 150]"
+3,no feasible solution,no feasible solution,"[-75581, 100]","[-127530, 150]","[-75581, 100]","[-127466, 150]"
+4,no feasible solution,no feasible solution,"[-76177, 100]","[-128567, 150]","[-76177, 100]","[-128562, 150]"
+5,no feasible solution,no feasible solution,"[-75813, 100]","[-128561, 150]","[-75813, 100]","[-128561, 150]"
+6,no feasible solution,no feasible solution,"[-75706, 100]","[-128294, 150]","[-75706, 100]","[-128294, 150]"
+7,no feasible solution,no feasible solution,"[-75890, 100]","[-128694, 150]","[-75890, 100]","[-128694, 150]"
+8,no feasible solution,no feasible solution,"[-75430, 100]","[-128104, 150]","[-75430, 100]","[-128296, 150]"
+9,no feasible solution,no feasible solution,"[-75722, 100]","[-127810, 150]","[-75722, 100]","[-127830, 150]"
+10,no feasible solution,no feasible solution,"[-76457, 100]","[-128772, 150]","[-76457, 100]","[-128772, 150]"
